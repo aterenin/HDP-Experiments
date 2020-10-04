@@ -1,0 +1,15 @@
+=== Setup ===
+Java Args:
+CommandLine: --comment=null --run_config=EMNLP_CameraReady/cfg_pubmed.cfg
+Active subconfig: HDPLDAcgcbib1PU
+Config:Title: HDPLDAcgcbib1PU
+Config:Description: HDPLDA LDA for CGCBIB init 1 topics
+Running class: cc.mallet.topics.tui.ParallelLDA
+=== Metadata ===
+Implementation-Version:8.0.6
+Implementation-Build:21f3fa031204320aa15d4613c5a67a1c833b26e8
+No. Topics: 1000
+Start Seed: 4711
+Start: Mon Sep 28 12:36:47 CEST 2020
+Stop : Mon Sep 28 19:51:45 CEST 2020
+Memory Usage:

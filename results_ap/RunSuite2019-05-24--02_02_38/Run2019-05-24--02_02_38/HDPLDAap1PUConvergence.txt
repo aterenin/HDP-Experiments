@@ -1,0 +1,15 @@
+=== Setup ===
+Java Args:-Xmx7g 
+CommandLine: --comment=null --run_config=data/cfg_ap.cfg
+Active subconfig: HDPLDAap1PU
+Config:Title: HDPLDAap1PU
+Config:Description: Poisson Polya Urn HDP LDA for AP init 1 topics
+Running class: cc.mallet.topics.tui.ParallelLDA
+=== Metadata ===
+Implementation-Version:8.0.6
+Implementation-Build:21f3fa031204320aa15d4613c5a67a1c833b26e8
+No. Topics: 1000
+Start Seed: 4711
+Start: Fri May 24 02:02:44 BST 2019
+Stop : Fri May 24 05:51:10 BST 2019
+Memory Usage:

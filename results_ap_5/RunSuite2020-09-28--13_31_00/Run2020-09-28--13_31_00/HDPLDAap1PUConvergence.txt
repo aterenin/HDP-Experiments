@@ -1,0 +1,15 @@
+=== Setup ===
+Java Args:-Xoptionsfile=/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64/compressedrefs/options.default -Xlockword:mode=default,noLockword=java/lang/String,noLockword=java/util/MapEntry,noLockword=java/util/HashMap$Entry,noLockword=org/apache/harmony/luni/util/ModifiedMap$Entry,noLockword=java/util/Hashtable$Entry,noLockword=java/lang/invoke/MethodType,noLockword=java/lang/invoke/MethodHandle,noLockword=java/lang/invoke/CollectHandle,noLockword=java/lang/invoke/ConstructorHandle,noLockword=java/lang/invoke/ConvertHandle,noLockword=java/lang/invoke/ArgumentConversionHandle,noLockword=java/lang/invoke/AsTypeHandle,noLockword=java/lang/invoke/ExplicitCastHandle,noLockword=java/lang/invoke/FilterReturnHandle,noLockword=java/lang/invoke/DirectHandle,noLockword=java/lang/invoke/ReceiverBoundHandle,noLockword=java/lang/invoke/DynamicInvokerHandle,noLockword=java/lang/invoke/FieldHandle,noLockword=java/lang/invoke/FieldGetterHandle,noLockword=java/lang/invoke/FieldSetterHandle,noLockword=java/lang/invoke/StaticFieldGetterHandle,noLockword=java/lang/invoke/StaticFieldSetterHandle,noLockword=java/lang/invoke/IndirectHandle,noLockword=java/lang/invoke/InterfaceHandle,noLockword=java/lang/invoke/VirtualHandle,noLockword=java/lang/invoke/PrimitiveHandle,noLockword=java/lang/invoke/InvokeExactHandle,noLockword=java/lang/invoke/InvokeGenericHandle,noLockword=java/lang/invoke/VarargsCollectorHandle,noLockword=java/lang/invoke/ThunkTuple -Xjcl:jclse29 -Dcom.ibm.oti.vm.bootstrap.library.path=/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64/compressedrefs:/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64 -Dsun.boot.library.path=/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64/compressedrefs:/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64 -Djava.library.path=/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64/compressedrefs:/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/amd64:/vol/cuda/10.0.130-cudnn7.6.4.38/lib64:/vol/cuda/10.0.130-cudnn7.6.4.38/lib:/usr/lib64:/usr/lib -Djava.home=/usr/lib/jvm/java-ibm-x86_64-80/jre -Djava.ext.dirs=/usr/lib/jvm/java-ibm-x86_64-80/jre/lib/ext -Duser.dir=/homes/at6617 -Djava.class.path=. -Xmx7g -Djava.class.path=PCPLDA-8.0.6.jar -Dsun.java.command=PCPLDA-8.0.6.jar --run_cfg=data/cfg_ap.cfg -Dsun.java.launcher=SUN_STANDARD -Dsun.java.launcher.pid=76391 
+CommandLine: --comment=null --run_config=data/cfg_ap.cfg
+Active subconfig: HDPLDAap1PU
+Config:Title: HDPLDAap1PU
+Config:Description: Poisson Polya Urn HDP LDA for AP init 1 topics
+Running class: cc.mallet.topics.tui.ParallelLDA
+=== Metadata ===
+Implementation-Version:8.0.6
+Implementation-Build:21f3fa031204320aa15d4613c5a67a1c833b26e8
+No. Topics: 1000
+Start Seed: 4711
+Start: Mon Sep 28 13:31:03 BST 2020
+Stop : Mon Sep 28 17:03:06 BST 2020
+Memory Usage:

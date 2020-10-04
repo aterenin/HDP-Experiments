@@ -1,0 +1,15 @@
+=== Setup ===
+Java Args:-Xmx7g 
+CommandLine: --comment=null --run_config=data/cfg_neurips.cfg
+Active subconfig: HDPLDAneurips1PU
+Config:Title: HDPLDAneurips1PU
+Config:Description: Poisson Polya Urn HDP LDA for NeurIPS init 1 topics
+Running class: cc.mallet.topics.tui.ParallelLDA
+=== Metadata ===
+Implementation-Version:8.0.6
+Implementation-Build:21f3fa031204320aa15d4613c5a67a1c833b26e8
+No. Topics: 1000
+Start Seed: 4711
+Start: Sun Sep 20 02:47:24 BST 2020
+Stop : Mon Sep 21 02:47:06 BST 2020
+Memory Usage:

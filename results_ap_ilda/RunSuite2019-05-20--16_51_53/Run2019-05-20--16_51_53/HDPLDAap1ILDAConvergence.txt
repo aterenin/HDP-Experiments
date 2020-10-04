@@ -1,0 +1,14 @@
+=== Setup ===
+Java Args:-Xmx7g 
+CommandLine: --comment=null --run_config=data/cfg_ap_ilda.cfg
+Active subconfig: HDPLDAap1ILDA
+Config:Title: HDPLDAap1ILDA
+Config:Description: ILDA_AP
+Running class: ParallelLDA
+=== Metadata ===
+Latest Commit Info:
+No. Topics: 388
+Start Seed: 4711
+Start: Mon May 20 16:51:59 BST 2019
+Stop : Fri May 24 00:53:26 BST 2019
+Memory Usage:

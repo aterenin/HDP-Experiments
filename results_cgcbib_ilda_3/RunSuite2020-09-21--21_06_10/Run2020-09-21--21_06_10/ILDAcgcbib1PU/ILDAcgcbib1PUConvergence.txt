@@ -1,0 +1,14 @@
+=== Setup ===
+Java Args:
+CommandLine: --comment=null --run_config=EMNLP_CameraReady/cfg_pubmed.cfg
+Active subconfig: ILDAcgcbib1PU
+Config:Title: ILDAcgcbib1PU
+Config:Description: Infinite LDA for CGCBIB init 1 topics
+Running class: ParallelLDA
+=== Metadata ===
+Latest Commit Info:ed4393c7ee2e5c1213a6be3641d321107df73c23 Adaptations to new Logging framework
+No. Topics: 264
+Start Seed: 4711
+Start: Mon Sep 21 21:06:11 CEST 2020
+Stop : Thu Sep 24 17:41:08 CEST 2020
+Memory Usage:

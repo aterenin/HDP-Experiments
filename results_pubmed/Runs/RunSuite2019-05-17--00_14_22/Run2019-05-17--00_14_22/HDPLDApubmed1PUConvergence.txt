@@ -1,0 +1,15 @@
+=== Setup ===
+Java Args:-Xmx31g 
+CommandLine: --comment=null --run_config=bash/experiments/cfg_pubmed_v2_1.cfg
+Active subconfig: HDPLDApubmed1PU
+Config:Title: HDPLDApubmed1PU
+Config:Description: Poisson Polya Urn HDP LDA for PUBMED init 1 topics
+Running class: cc.mallet.topics.tui.ParallelLDA
+=== Metadata ===
+Implementation-Version:8.0.6
+Implementation-Build:21f3fa031204320aa15d4613c5a67a1c833b26e8
+No. Topics: 1000
+Start Seed: 4711
+Start: Fri May 17 00:25:28 EEST 2019
+Stop : Mon May 20 10:35:35 EEST 2019
+Memory Usage:

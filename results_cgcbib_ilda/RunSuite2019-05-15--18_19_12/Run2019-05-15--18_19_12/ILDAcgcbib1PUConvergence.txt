@@ -1,0 +1,14 @@
+=== Setup ===
+Java Args:
+CommandLine: --comment=null --run_config=cfg_pubmed.cfg
+Active subconfig: ILDAcgcbib1PU
+Config:Title: ILDAcgcbib1PU
+Config:Description: Infinite LDA for CGCBIB init 1 topics
+Running class: ParallelLDA
+=== Metadata ===
+Latest Commit Info:
+No. Topics: 289
+Start Seed: 4711
+Start: Wed May 15 18:19:14 CEST 2019
+Stop : Sun May 19 01:59:31 CEST 2019
+Memory Usage:

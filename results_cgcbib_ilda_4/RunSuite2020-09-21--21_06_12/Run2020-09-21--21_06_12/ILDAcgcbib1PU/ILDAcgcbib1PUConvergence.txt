@@ -1,0 +1,14 @@
+=== Setup ===
+Java Args:
+CommandLine: --comment=null --run_config=EMNLP_CameraReady/cfg_pubmed.cfg
+Active subconfig: ILDAcgcbib1PU
+Config:Title: ILDAcgcbib1PU
+Config:Description: Infinite LDA for CGCBIB init 1 topics
+Running class: ParallelLDA
+=== Metadata ===
+Latest Commit Info:994f91d8c0bf7a11fd307ca9542e23117c1e8aeb Adaptations to new logging API, added re-init of random number generator to ensure different random sequence
+No. Topics: 267
+Start Seed: 4711
+Start: Mon Sep 21 21:06:14 CEST 2020
+Stop : Sun Sep 27 11:54:22 CEST 2020
+Memory Usage:
